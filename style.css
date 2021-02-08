@@ -1,4 +1,8 @@
 .fancy-header {
-    color: purple;
+    color: green;
     text-decoration: underline;
 }
+
+H1 { text-align: center }
+
+body {background-color: papayawhip;}
